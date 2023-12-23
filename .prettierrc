@@ -1,0 +1,7 @@
+{
+  "react-native": {
+    "singleQuote": false,
+    "trailingComma": "all",
+    "semi": false
+  }
+}
