@@ -7,6 +7,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
+    "tunnel": "expo start --tunnel",
     "ts:check": "tsc"
   },
   "dependencies": {
@@ -19,6 +20,9 @@
     "@babel/core": "^7.20.0",
     "@types/react": "~18.2.14",
     "@types/react-native": "^0.73.0",
+    "eslint": "^8.56.0",
+    "eslint-config-universe": "^12.0.0",
+    "prettier": "^3.1.1",
     "typescript": "^5.1.3"
   },
   "private": true
